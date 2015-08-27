@@ -29,6 +29,8 @@ proguard/
 # Android studio files
 /local.properties
 /.idea/*
+.idea/.name
 .DS_Store
 /captures
 *~
+*.iml
